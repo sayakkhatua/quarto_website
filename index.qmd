@@ -11,10 +11,16 @@ about:
   image-shape: round
   links:
     - icon: twitter
+      text: Twitter
       href: "https://twitter.com/sayak_khatua"
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/sayak-khatua/
     - icon: github
+      text: Github
       href: "https://github.com/sayakkhatua"
     - icon: envelope
+      text: Email
       href: "mailto:khatuas@oregonstate.edu"
     
 toc: false
@@ -22,6 +28,9 @@ anchor-sections: false
 execute: 
   freeze: true
 ---
+
+::: {#hero-heading}
+:::
 
 My research interests lie broadly at the intersection of development economics, education, labor, migration, program evaluation, and research ethics.
 
