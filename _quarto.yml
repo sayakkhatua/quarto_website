@@ -25,9 +25,6 @@ website:
       - text: Research
         aria-label: "Research"
         href: research/index.qmd
-      - text: Publications
-        aria-label: "Publications"
-        href: publications/index.qmd
       - text: Teaching
         aria-label: "Teaching"
         href: teaching/index.qmd
