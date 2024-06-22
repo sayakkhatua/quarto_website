@@ -9,7 +9,7 @@ render:
 
 website:
   title: ""
-  favicon: assets/img/turtle.png
+  favicon: assets/img/turtle.webp
   site-url: https://sayakkhatua.netlify.com
   repo-url: https://github.com/sayakkhatua/quarto_website
   page-navigation: true
@@ -17,7 +17,7 @@ website:
   
   navbar:
     pinned: true
-    logo: assets/img/turtle.png
+    logo: assets/img/turtle.webp
     right:
       - text: CV
         aria-label: "CV"
