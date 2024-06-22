@@ -1,0 +1,39 @@
+project:
+  type: website
+
+render:
+    - "*.qmd"
+
+website:
+  title: ""
+  favicon: assets/img/turtle.png
+  page-navigation: true
+  #back-to-top-navigation: true
+  
+  navbar:
+    logo: assets/img/turtle.png
+    right:
+      - text: CV
+        aria-label: "CV"
+        href: /about/CV_2024.pdf
+      - text: Research
+        aria-label: "Research"
+        href: research/index.qmd
+      - text: Publications
+        aria-label: "Publications"
+        href: publications/index.qmd
+      - text: Teaching
+        aria-label: "Teaching"
+        href: teaching/index.qmd
+
+
+format: 
+  html:
+    theme:
+      light: flatly
+      dark: darkly
+    css: styles.css
+    toc: false
+
+
+
