@@ -1,6 +1,6 @@
 ---
 title: "Sayak Khatua"
-pagetitle: "Sayak Khatua"
+pagetitle: "Sayak Khatua | About"
 subtitle: "PhD Candidate, School of Public Policy, Oregon State University "
 image: assets/img/sayak.png
     
@@ -17,8 +17,10 @@ about:
     - icon: envelope
       href: "mailto:khatuas@oregonstate.edu"
     
-output:
-  postcards::jolla
+toc: false
+anchor-sections: false
+execute: 
+  freeze: true
 ---
 
 My research interests lie broadly at the intersection of development economics, education, labor, migration, program evaluation, and research ethics.

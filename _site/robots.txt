@@ -1,1 +1,1 @@
-Sitemap: https://sayakkhatua.netlify.app/sitemap.xml
+Sitemap: https://sayakkhatua.netlify.com/sitemap.xml
