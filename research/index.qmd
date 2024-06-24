@@ -14,7 +14,7 @@ link-external-newwindow: true
 
 </details>
 
-Status: Writing First draft
+Status: Writing
 
 **Border reforms and structural transformation: Evidence from state reorganization in India**
 
@@ -44,7 +44,7 @@ Status: Data Analysis
 
 </details>
 
-Status: Writing First draft
+Status: Writing
 
 ## Publications
 
