@@ -11,7 +11,7 @@ link-external-newwindow: true
 <details>
 
 <summary>Abstract</summary>
-
+... Coming soon
 </details>
 
 Status: Writing
@@ -21,7 +21,7 @@ Status: Writing
 <details>
 
 <summary>Abstract</summary>
-
+... Coming soon
 </details>
 
 Status: Data Analysis
@@ -31,7 +31,7 @@ Status: Data Analysis
 <details>
 
 <summary>Abstract</summary>
-
+... Coming soon
 </details>
 
 Status: Data Analysis
@@ -41,7 +41,7 @@ Status: Data Analysis
 <details>
 
 <summary>Abstract</summary>
-
+... Coming soon
 </details>
 
 Status: Writing
@@ -50,7 +50,7 @@ Status: Writing
 
 #### 2024
 
-**Power to the Researchers: Calculating Power After Estimation** *(Forthcoming 2024, Review of Development Economics )*, </br> with Alex Tian, Robert Reed, Tom Coupe, Ben Wood
+**Power to the Researchers: Calculating Power After Estimation** *(Forthcoming, Review of Development Economics )*, </br> with Alex Tian, Robert Reed, Tom Coupe, Ben Wood
 
 <a href="https://doi.org/10.1002/jae.3045"> Working Paper </a>\
 
