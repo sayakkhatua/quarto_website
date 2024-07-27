@@ -15,7 +15,7 @@ about:
       href: "https://twitter.com/sayak_khatua"
     - icon: linkedin
       text: LinkedIn
-      href: https://www.linkedin.com/in/sayak-khatua/
+      href: "https://www.linkedin.com/in/sayak-khatua/"
     - icon: github
       text: Github
       href: "https://github.com/sayakkhatua"

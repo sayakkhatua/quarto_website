@@ -50,9 +50,9 @@ Status: Writing
 
 #### 2024
 
-**Power to the Researchers: Calculating Power After Estimation** *(Forthcoming, Review of Development Economics )*, </br> with Alex Tian, Robert Reed, Tom Coupe, Ben Wood
+**Power to the Researchers: Calculating Power After Estimation** *(Review of Development Economics )*, </br> with Alex Tian, Robert Reed, Tom Coupe, Ben Wood
 
-<a href="https://doi.org/10.1002/jae.3045"> Working Paper </a>\
+<a href="https://doi.org/10.1002/jae.3045"> Working Paper </a>\ <a href="https://doi.org/10.1111/rode.13130"> Published Article </a>\
 
 <details>
 
@@ -61,6 +61,14 @@ Status: Writing
 Calculating statistical power before estimation is considered good practice. However, there is no generally accepted method for calculating power after estimation. There are several reasons why one would want to do this. First, there is general interest in knowing whether ex ante power calculations are dependable guides of actual power. Further, knowing the statistical power of an estimated equation can aid one in interpreting the associated estimates. This study proposes a simple method for calculating power after estimation. To assess its performance, we conduct Monte Carlo experiments customized to produce simulated datasets that resemble actual data from studies funded by the International Initiative for Impact Evaluation (3ie). In addition to the final reports, 3ie provided ex ante power calculations from the funding applications, along with data and code to reproduce the estimates in the final reports. After determining that our method performs adequately, we apply it to the 3ie-funded studies. We find an average ex post power of 75.4%, not far from the 80% commonly claimed in the 3ie funding applications. However, we observe significantly more estimates of low power than would be expected given the ex ante claims. We conclude by providing three examples to illustrate how ex post power can aid the interpretation of estimates that are (i) insignificant and low powered, (ii) insignificant and high powered, and (iii) significant and low powered.
 
 </details>
+
+**Research Transparency and Reproducibility at the  International Initiative for Impact Evaluation** *(Forthcoming, Journal of Development Effectiveness)* </br> with Sean Grant
+
+<details>
+<summary>Abstract</summary>
+Research transparency and reproducibility can improve the credibility of scientific evidence on development effectiveness and the utility of this evidence for decision-making. As a funder and producer of research on development effectiveness, the International Initiative for Impact Evaluation (3ie) has several policies and programs that aim to improve research transparency and reproducibility. This manuscript provides a descriptive overview of the history-to-date of research transparency and reproducibility policies and programs at 3ie. In 2012, 3ie launched its Replication Program to incentivize replication of impact evaluations in international development. In 2014, 3ie created the Registry for International Development Impact Evaluations to provide infrastructure for the prospective registration of impact evaluations of development interventions. In 2018, 3ie published its first Research Transparency Policy articulating requirements on the use of open science practices in research activities. In 2022, 3ie created the Transparent, Reproducible, and Ethical Evidence (TREE) Review Framework, which integrates best practices for research transparency and reproducibility into evaluation workflows. This manuscript provides stakeholders in development effectiveness specifically—as well as research grant managers and other organizations in the scientific ecosystem more generally—a descriptive example of institutional efforts to continuously improve research transparency and reproducibility policies and programs.
+</details>
+
 
 #### 2021
 
