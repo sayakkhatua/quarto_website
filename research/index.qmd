@@ -62,7 +62,9 @@ Calculating statistical power before estimation is considered good practice. How
 
 </details>
 
-**Research Transparency and Reproducibility at the  International Initiative for Impact Evaluation** *(Forthcoming, Journal of Development Effectiveness)* </br> with Sean Grant
+**Research Transparency and Reproducibility at the  International Initiative for Impact Evaluation** *(Journal of Development Effectiveness)* </br> with Sean Grant
+
+<a href="https://doi.org/10.1080/19439342.2024.2388102"> Open Access </a>
 
 <details>
 <summary>Abstract</summary>
