@@ -21,7 +21,7 @@ website:
     right:
       - text: CV
         aria-label: "CV"
-        href: assets/docs/CV_June2024.pdf
+        href: assets/docs/CV_2024.pdf
       - text: Research
         aria-label: "Research"
         href: research/index.qmd
