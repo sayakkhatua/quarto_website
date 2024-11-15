@@ -1,0 +1,56 @@
+project:
+  type: website
+
+execute:
+  freeze: auto
+  
+render:
+    - "*.qmd"
+
+website:
+  title: ""
+  favicon: assets/img/turtle.webp
+  site-url: https://sayakkhatua.netlify.com
+  repo-url: https://github.com/sayakkhatua/quarto_website
+  page-navigation: true
+  #back-to-top-navigation: true
+  
+  navbar:
+    pinned: true
+    logo: assets/img/turtle.webp
+    right:
+      - text: CV
+        aria-label: "CV"
+        href: assets/docs/CV_2024.pdf
+      - text: Research
+        aria-label: "Research"
+        href: research/index.qmd
+      - text: Teaching
+        aria-label: "Teaching"
+        href: teaching/index.qmd
+
+  page-footer:
+    border: true
+    left: "&#169; 2024 Sayak Khatua"
+    #center:
+     # - text: Code of conduct
+      #  href: coc.qmd
+      #- text: Accessibility
+      #  href: accessibility.qmd
+      #- text: License
+      #  href: license.qmd
+    right: "made with [Quarto](https://quarto.org)"
+
+format: 
+  html:
+    theme:
+      light: flatly
+      dark: darkly
+    pagetitle: "Sayak Khatua | {{< meta title >}}"
+    page-layout: article
+    smooth-scroll: true
+    link-external-newwindow: true
+    code-link: true
+    highlight-style: a11y
+    css: styles.css
+    toc: false
