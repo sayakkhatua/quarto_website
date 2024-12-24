@@ -8,7 +8,7 @@ about:
   id: hero-heading
   template: jolla
   image-width: 15em
-  image-shape: round
+  image-shape: rectangle
   links:
     - icon: twitter
       text: Twitter
@@ -28,9 +28,6 @@ anchor-sections: false
 execute: 
   freeze: true
 ---
-
-::: {#hero-heading}
-:::
 
 My research interests lie broadly at the intersection of development economics, education, labor, migration, program evaluation, and research ethics.
 

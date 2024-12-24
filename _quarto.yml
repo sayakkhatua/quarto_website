@@ -25,6 +25,9 @@ website:
       - text: Research
         aria-label: "Research"
         href: research/index.qmd
+      - text: Publications
+        aria-label: "Publications"
+        href: publications/index.qmd
       - text: Teaching
         aria-label: "Teaching"
         href: teaching/index.qmd
@@ -43,9 +46,10 @@ website:
 
 format: 
   html:
-    theme:
-      light: flatly
-      dark: darkly
+    theme: united
+      #light: flatly
+      #dark: darkly
+    max-width: 1400px
     pagetitle: "Sayak Khatua | {{< meta title >}}"
     page-layout: article
     smooth-scroll: true
