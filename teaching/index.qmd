@@ -1,14 +1,16 @@
 ---
-title: "Teaching"
-toc: true 
+title: ""
+toc: false 
 link-external-newwindow: true
 ---
 
 ## Oregon State University (Instructor - Online)
-Sustainable Living - Practice and Policy (x2) </br>
-Politics of Developing Nations (x3)
+Sustainable Living - Practice and Policy (Winter 2023, Fall 2024, Spring 2025 ) </br>
+Politics of Developing Nations (Summer 2023, Winter 2024, Spring 2024, Winter 2025) </br>
+Environmental Politics and Policy (Fall 2023)
 
 ## University of Illinois at Chicago (Teaching Assistant)
+Introduction to Econometrics(Undergraduate) </br>
 Principles of Microeconomics(Undergraduate) </br>
 Principles of Macroeconomics(Undergraduate) 
 
@@ -24,7 +26,7 @@ Principles of Microeconomics(Undergraduate) </br>
 Intermediate Macroeconomics(Undergraduate) </br>
 Principles of Macroeconomics(Undergraduate) 
 
-## Trainings
+## International Initiative for Impact Evaluation (Trainer)
 Push Button Replication (Computational Reproducibility) </br>
 Research Transparency and Open Science Practices </br>
 Impact Evaluation Methodologies using Stata

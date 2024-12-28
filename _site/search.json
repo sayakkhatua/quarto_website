@@ -81,7 +81,7 @@
     "href": "research/index.html#work-in-progress",
     "title": "",
     "section": "Work-in-progress",
-    "text": "Work-in-progress\nBorder reforms and structural transformation: Evidence from state reorganization in India\n\n\nAbstract\n\n… Coming soon\n\nStatus: Data Analysis\nThe Great (research) Divide: The long term dynamics of Coauthorship Networks in International Development\n\n\nAbstract\n\n… Coming soon\n\nStatus: Data Analysis"
+    "text": "Work-in-progress\nWhere morning feels different: Labor market consequences of state reorganisation in India\n\n\nAbstract\n\n… Coming soon\n\nStatus: Data Analysis\nThe Great (research) Divide: The long term dynamics of Coauthorship Networks in International Development\n\n\nAbstract\n\n… Coming soon\n\nStatus: Data Analysis"
   },
   {
     "objectID": "research/index.html#publications",
@@ -93,28 +93,28 @@
   {
     "objectID": "teaching/index.html",
     "href": "teaching/index.html",
-    "title": "Teaching",
+    "title": "",
     "section": "",
-    "text": "Sustainable Living - Practice and Policy (x2)  Politics of Developing Nations (x3)"
+    "text": "Sustainable Living - Practice and Policy (Winter 2023, Fall 2024, Spring 2025 )  Politics of Developing Nations (Summer 2023, Winter 2024, Spring 2024, Winter 2025)  Environmental Politics and Policy (Fall 2023)"
   },
   {
     "objectID": "teaching/index.html#university-of-illinois-at-chicago-teaching-assistant",
     "href": "teaching/index.html#university-of-illinois-at-chicago-teaching-assistant",
-    "title": "Teaching",
+    "title": "",
     "section": "University of Illinois at Chicago (Teaching Assistant)",
-    "text": "University of Illinois at Chicago (Teaching Assistant)\nPrinciples of Microeconomics(Undergraduate)  Principles of Macroeconomics(Undergraduate)"
+    "text": "University of Illinois at Chicago (Teaching Assistant)\nIntroduction to Econometrics(Undergraduate)  Principles of Microeconomics(Undergraduate)  Principles of Macroeconomics(Undergraduate)"
   },
   {
     "objectID": "teaching/index.html#portland-state-university-teaching-assistant",
     "href": "teaching/index.html#portland-state-university-teaching-assistant",
-    "title": "Teaching",
+    "title": "",
     "section": "Portland State University (Teaching Assistant)",
     "text": "Portland State University (Teaching Assistant)\nAdvanced Econometrics(Graduate)  Advanced Applied Econometrics(Graduate)  Health Economics(Graduate/undergraduate)  Women in the Economy(Graduate/undergraduate)  Multinational Enterprises(Graduate/undergraduate) Labor Economics and Industrial Relations(Graduate/Undergraduate)  Intermediate Microeconomics(Undergraduate)  Principles of Microeconomics(Undergraduate)  Intermediate Macroeconomics(Undergraduate)  Principles of Macroeconomics(Undergraduate)"
   },
   {
     "objectID": "teaching/index.html#trainings",
     "href": "teaching/index.html#trainings",
-    "title": "Teaching",
+    "title": "",
     "section": "Trainings",
     "text": "Trainings\nPush Button Replication (Computational Reproducibility)  Research Transparency and Open Science Practices  Impact Evaluation Methodologies using Stata"
   },
@@ -131,5 +131,12 @@
     "title": "",
     "section": "Dormant Papers",
     "text": "Dormant Papers\nThe Use of Behavioural-science Informed Interventions to Promote Latrine Use in Rural India: A Synthesis of Findings \nwith Charlotte Lane and Bethany Caruso\n Preprint   Data and Code \n\nMaking data accessible: lessons learned from computational reproducibility of impact evaluations \nwith Neeta Goel and Marie Gaarder\n Preprint   Data and Code"
+  },
+  {
+    "objectID": "teaching/index.html#international-initiative-for-impact-evaluation-trainer",
+    "href": "teaching/index.html#international-initiative-for-impact-evaluation-trainer",
+    "title": "",
+    "section": "International Initiative for Impact Evaluation (Trainer)",
+    "text": "International Initiative for Impact Evaluation (Trainer)\nPush Button Replication (Computational Reproducibility)  Research Transparency and Open Science Practices  Impact Evaluation Methodologies using Stata"
   }
 ]
