@@ -30,7 +30,7 @@ This paper studies the effect of non-implementation of education reforms on enro
 
 </details>
 
-Status: *Writing*
+Status: *Draft coming soon*
 
 **The Reliability of Replications: A Study in Computational Reproductions** </br> with Nate Breznau et. al.
 
@@ -58,7 +58,7 @@ Status: Accepted Royal Society Open Science
 
 </details>
 
-Status: Data Analysis
+Status: *Data Analysis*
 
 **Connecting Communities, Reducing Conflict: Evidence from India's Rural Road Program**
 
@@ -70,9 +70,9 @@ Status: Data Analysis
 
 </details>
 
-Status: Data Analysis
+Status: *Data Analysis*
 
-**Connecting Communities, Reducing Conflict: Evidence from India's Rural Road Program**
+**When Waters Recede: Impact of Extreme Weather Events on Child Labor**
 
 <details>
 
@@ -82,7 +82,19 @@ Status: Data Analysis
 
 </details>
 
-Status: Data Analysis
+Status: *Data cleaning*
+
+**Learning or Earning: How Mandatory Education Shapes Child Labor in India**
+
+<details>
+
+<summary>Abstract</summary>
+
+... Coming soon
+
+</details>
+
+Status: *Data cleaning*
 
 
 **The Great (research) Divide: The long term dynamics of Coauthorship Networks in International Development**
@@ -95,7 +107,7 @@ Status: Data Analysis
 
 </details>
 
-Status: Data Analysis
+Status: *Gathering data*
 
 ## Dormant Papers
 
