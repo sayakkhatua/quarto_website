@@ -16,7 +16,7 @@ The relationship between the dynamics of property prices and private credit has 
 
 </details>
 
-Status: *Submitted Journal of Real Estate Finance and Economics*
+Status: *Under Review at Journal of Real Estate Finance and Economics*
 
 **To not move forward is to fall behind: Evidence of Policy Failure from India**</br>
 
@@ -32,7 +32,7 @@ This paper studies the effect of non-implementation of education reforms on enro
 
 Status: *Draft coming soon*
 
-**The Reliability of Replications: A Study in Computational Reproductions** </br> with Nate Breznau et. al.
+**The Reliability of Replications: A Study in Computational Reproductions** </br> *with* Nate Breznau et. al.
 
 <a href="https://www.doi.org/10.31235/osf.io/j7qta"> Preprint </a>
 
@@ -96,6 +96,17 @@ Status: *Data cleaning*
 
 Status: *Data cleaning*
 
+**Improving school management in a low-income country: Experimental evidence from India** </br> *with* <a href="https://sites.google.com/site/toddpugatch/">Todd Pugatch</a> , <a href="http://ketkisheth.weebly.com">Ketki Sheth</a>, <a href="https://sites.google.com/view/nshakira-rukundo/home">Emmanuel Rukundo</a>
+
+<details>
+
+<summary>Abstract</summary>
+
+... Coming soon
+
+</details>
+
+Status: *Data collection*
 
 **The Great (research) Divide: The long term dynamics of Coauthorship Networks in International Development**
 
