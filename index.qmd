@@ -6,7 +6,7 @@ image: assets/img/sayak.png
     
 about:
   id: hero-heading
-  template: jolla
+  template: trestles
   image-width: 15em
   image-shape: rectangle
   links:

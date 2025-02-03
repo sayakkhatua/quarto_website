@@ -34,7 +34,7 @@ website:
 
   page-footer:
     border: true
-    left: "&#169; 2024 Sayak Khatua"
+    left: "&#169; 2025 Sayak Khatua"
     #center:
      # - text: Code of conduct
       #  href: coc.qmd
@@ -46,12 +46,14 @@ website:
 
 format: 
   html:
-    theme: united
+    theme: litera
       #light: flatly
       #dark: darkly
     max-width: 1400px
+    fontsize: 1.1em
+    linestretch: 1.5
     pagetitle: "Sayak Khatua | {{< meta title >}}"
-    page-layout: article
+    page-layout: full
     smooth-scroll: true
     link-external-newwindow: true
     code-link: true

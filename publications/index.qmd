@@ -7,7 +7,7 @@ link-external-newwindow: true
 
 #### 2024
 
-**Power to the Researchers: Calculating Power After Estimation** *(Review of Development Economics )* </br> with Alex Tian, Robert Reed, Tom Coupe, Ben Wood
+**Power to the Researchers: Calculating Power After Estimation** *(Review of Development Economics )* </br> *with* Alex Tian, Robert Reed, Tom Coupe, Ben Wood
 
 <a href="https://doi.org/10.1002/jae.3045"> Working Paper </a>\ <a href="https://doi.org/10.1111/rode.13130"> Published Article </a>
 
@@ -19,7 +19,7 @@ Calculating statistical power before estimation is considered good practice. How
 
 </details>
 
-**Research Transparency and Reproducibility at the  International Initiative for Impact Evaluation** *(Journal of Development Effectiveness)* </br> with Sean Grant
+**Research Transparency and Reproducibility at the  International Initiative for Impact Evaluation** *(Journal of Development Effectiveness)* </br> *with* <a href="https://education.uoregon.edu/directory/faculty/all/spgrant">Sean Grant</a>
 
 <a href="https://doi.org/10.1080/19439342.2024.2388102"> Published Article </a>
 
@@ -31,7 +31,7 @@ Research transparency and reproducibility can improve the credibility of scienti
 
 #### 2021
 
-**Using big data for evaluating development outcomes: a systematic map** *(Campbell Systematic Reviews)* </br> with F.Rathinam, Z.Siddiqui, M.Malik, P.Duggal, S.Watson, X.Vollenweider
+**Using big data for evaluating development outcomes: a systematic map** *(Campbell Systematic Reviews)* </br> *with* F.Rathinam, Z.Siddiqui, M.Malik, P.Duggal, S.Watson, X.Vollenweider
 
 <a href="https://doi.org/10.1002/cl2.1149"> Published Article </a>
 
@@ -59,8 +59,7 @@ Research transparency and reproducibility can improve the credibility of scienti
 
 #### 2019
 
-**Short-Term Versus Long-Term Effects of Forced Displacement** (in Land Acquisition in Asia) </br>
-with Vengadeshvaran Sarma
+**Short-Term Versus Long-Term Effects of Forced Displacement** (in Land Acquisition in Asia) </br> *with* Vengadeshvaran Sarma
 
 <a href="https://link.springer.com/chapter/10.1007/978-981-13-6455-6_3"> Link Here </a>
 
