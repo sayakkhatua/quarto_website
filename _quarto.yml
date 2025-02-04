@@ -50,7 +50,7 @@ format:
       #light: flatly
       #dark: darkly
     max-width: 1400px
-    fontsize: 1.25em
+    fontsize: 1em
     linestretch: 1.5
     pagetitle: "Sayak Khatua | {{< meta title >}}"
     page-layout: full
