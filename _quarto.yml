@@ -46,11 +46,11 @@ website:
 
 format: 
   html:
-    theme: litera
+    theme: lumen
       #light: flatly
       #dark: darkly
     max-width: 1400px
-    fontsize: 1em
+    fontsize: 1.2em
     linestretch: 1.5
     pagetitle: "Sayak Khatua | {{< meta title >}}"
     page-layout: full
