@@ -21,16 +21,16 @@ website:
     right:
       - text: CV
         aria-label: "CV"
-        href: assets/docs/CV_2024.pdf
+        href: "cv/index.qmd"
       - text: Research
         aria-label: "Research"
-        href: research/index.qmd
+        href: "research/index.qmd"
       - text: Publications
         aria-label: "Publications"
-        href: publications/index.qmd
+        href: "publications/index.qmd"
       - text: Teaching
         aria-label: "Teaching"
-        href: teaching/index.qmd
+        href: "teaching/index.qmd"
 
   page-footer:
     border: true
