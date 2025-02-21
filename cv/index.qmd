@@ -36,7 +36,7 @@ cv:
 }
 ```
 
-```{=html}
+
 <p class="text-center">
   <a class="btn btn-primary btn-lg cv-download" href="CV_2024.pdf" target="_blank">
     <i class="fa-solid fa-file-arrow-down"></i>&ensp;Download current CV
@@ -46,4 +46,3 @@ cv:
 <div class="embed-container">
   <iframe src="CV_2024.pdf" style="border: 0.5px"></iframe>
 </div>
-```
